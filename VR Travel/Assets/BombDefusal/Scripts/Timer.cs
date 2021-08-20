@@ -10,8 +10,7 @@ public class Timer : MonoBehaviour
 	public Text timerText;
 	private float timeLeft = 60.0f;
 	public static bool timeStop= false;
-
-    // Update is called once per frame
+	
     void Update()
     {
 		if(!timeStop)
