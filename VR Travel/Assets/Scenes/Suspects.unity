@@ -6485,7 +6485,7 @@ GameObject:
   - component: {fileID: 1562090168}
   - component: {fileID: 1562090169}
   m_Layer: 0
-  m_Name: Line
+  m_Name: camLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
