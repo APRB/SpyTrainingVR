@@ -5,8 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Magazine
-  - Target
-  - Bullet
+  - Civilian
+  - Exit
+  - Suspect
   layers:
   - Default
   - TransparentFX
