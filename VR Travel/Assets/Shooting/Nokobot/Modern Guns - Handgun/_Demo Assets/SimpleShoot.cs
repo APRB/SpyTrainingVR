@@ -45,6 +45,8 @@ public class SimpleShoot : MonoBehaviour
     {
         hasSlide = true;
         source.PlayOneShot(reload);
+        //Slider to Reload
+        magazine.numberOfBullets = 8;
     }
 
     [System.Obsolete]
