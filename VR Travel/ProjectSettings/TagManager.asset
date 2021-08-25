@@ -5,8 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Magazine
-  - Target
-  - Bullet
+  - Pliers
   layers:
   - Default
   - TransparentFX
