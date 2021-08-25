@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7551622389104002284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7551622389104002287}
+  - component: {fileID: 7551622389104002286}
+  m_Layer: 0
+  m_Name: camera_collider
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7551622389104002287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7551622389104002284}
+  m_LocalRotation: {x: 0.47903448, y: -0.43121588, z: -0.5085108, w: 0.5709602}
+  m_LocalPosition: {x: 0.17000003, y: 0.020000039, z: 0.009999998}
+  m_LocalScale: {x: 0.12087501, y: 0.12087491, z: 0.12087496}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 6.227, y: -80.203, z: -88.623}
+--- !u!65 &7551622389104002286
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7551622389104002284}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 0.22051796, y: 0.2746538, z: 51.762604}
+  m_Center: {x: 0.008793738, y: -0.36254445, z: 27.645863}
