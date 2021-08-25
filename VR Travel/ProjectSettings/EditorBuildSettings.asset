@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Bill Scenes/Main hub.unity
+    guid: d336c2b40efe92e4db12f35408af5802
+  - enabled: 1
     path: Assets/Scenes/Shooting.unity
     guid: 088fa58d9b0b01d4dbc392bcd562c2f6
+  - enabled: 1
+    path: Assets/Scenes/Suspects.unity
+    guid: 933c92b0396ea014b80e101ac8127a30
+  - enabled: 1
+    path: Assets/Scenes/Japan.unity
+    guid: 42f2fee681087fb4cbe165d9dcb043f0
+  - enabled: 1
+    path: Assets/BombDefusal/Bomb_Defusal.unity
+    guid: 0b46b856ecba443489ce81e8d91441c6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 181473708cd63a645865888887eb82fd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bbfa62c983bafdd489c95c6022f807e5, type: 2}

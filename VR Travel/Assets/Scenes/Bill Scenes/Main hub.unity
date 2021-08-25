@@ -610,7 +610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60bb4f2759ae3f34a89581a9d96d36ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Japan
+  sceneToLoad: Suspects
 --- !u!114 &524831361
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -807,7 +807,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60bb4f2759ae3f34a89581a9d96d36ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Japan
+  sceneToLoad: Bomb_Defusal
 --- !u!114 &835753406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2893,7 +2893,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60bb4f2759ae3f34a89581a9d96d36ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: Japan
+  sceneToLoad: Shooting
 --- !u!114 &1776444877
 MonoBehaviour:
   m_ObjectHideFlags: 0
