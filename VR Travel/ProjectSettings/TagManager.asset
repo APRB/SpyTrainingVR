@@ -7,6 +7,14 @@ TagManager:
   - Magazine
   - Target
   - Bullet
+  - Exit
+  - Suspect
+  - Civilian
+  - CannonBall
+  - Kunai
+  - Shuriken
+  - RotateCheck
+  - Sword
   layers:
   - Default
   - TransparentFX
@@ -17,9 +25,9 @@ TagManager:
   - Player
   - Grab Interactable
   - Magazine
-  - 
-  - 
-  - 
+  - Sliceable
+  - Ground
+  - Cast
   - 
   - 
   - 
