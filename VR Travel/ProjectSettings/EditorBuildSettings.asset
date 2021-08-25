@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Bomb_Defusal.unity
-    guid: 0b46b856ecba443489ce81e8d91441c6
-  - enabled: 0
     path: Assets/Scenes/Shooting.unity
     guid: 088fa58d9b0b01d4dbc392bcd562c2f6
   m_configObjects:
